@@ -1,6 +1,6 @@
 # HTML5 Testcard
 
-**[See demo](https://makigas.github.io/testcard)**
+This is a forked repository. See the original one [here](https://github.com/makigas/testcard). Will drastically differ as I add my own stuff into. Thanks makigas for the colour bars templates. 
 
 Just a webpage that renders a testcard with a clock pattern. I use it on my
 livestreams while I'm setting up before starting. You can give it a try using
