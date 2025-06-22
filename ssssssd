@@ -1,0 +1,119 @@
+[33mcommit 4c2994507e364ebab9c447c614e3f3d3077659bb[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mgh-pages[m[33m, [m[1;31morigin/gh-pages[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: nguyen <barnacl437@proton.me>
+Date:   Sun Jun 22 22:27:36 2025 +0700
+
+    pm5644 extensive task
+
+[33mcommit a6ac0cd6895d57eb4f4f35cc34e5ec2fb3ed31ff[m
+Author: nguyen <barnacl437@proton.me>
+Date:   Sun Jun 22 22:24:34 2025 +0700
+
+    pm5644 font fix 5
+
+[33mcommit 143f95b0e86c3aebd231ce514fc2ce7117a8a23a[m
+Author: nguyen <barnacl437@proton.me>
+Date:   Sun Jun 22 17:32:37 2025 +0700
+
+    pm5644 font fix 4
+
+[33mcommit 42a083da3bf4fede370df08486d4caffa3e2f278[m
+Author: nguyen <barnacl437@proton.me>
+Date:   Sun Jun 22 17:13:44 2025 +0700
+
+    pm5644 font fix #3
+
+[33mcommit 128c44dc9739af349e3846a4b42270a73c77a126[m
+Author: nguyen <barnacl437@proton.me>
+Date:   Sun Jun 22 17:10:34 2025 +0700
+
+    pm5644: modenine fix #2
+
+[33mcommit 2fa7eb88daa32c0e96051b3cb7427a36782c58ad[m
+Author: nguyen <barnacl437@proton.me>
+Date:   Sun Jun 22 17:06:01 2025 +0700
+
+    pm5644: fixing the ModeNine path
+
+[33mcommit f6d817968d9fdfeff9b3f2f9fe727bbcb7260fca[m
+Author: nguyen <barnacl437@proton.me>
+Date:   Sun Jun 22 17:04:13 2025 +0700
+
+    pm5644: font change: VCR -> ModeNine
+
+[33mcommit 180b07ec29d211d8c2bfe9ebe693c0d4d6833d42[m
+Author: barnacl437 <barnacl437@disroot.org>
+Date:   Thu Jun 12 16:11:25 2025 +0700
+
+    ebu colour bar
+
+[33mcommit 8109d266767cd39c0923912186b2e2562c0e1391[m
+Author: barnacl437 <barnacl437@disroot.org>
+Date:   Thu Jun 12 16:08:36 2025 +0700
+
+    ebu colour bar
+
+[33mcommit aa078a442fb2230a439bc867ccf67b0bb19ee24a[m
+Author: barnacl437 <barnacl437@disroot.org>
+Date:   Thu Jun 12 15:43:27 2025 +0700
+
+    pm5644 tweak
+
+[33mcommit d79660fd7fe84ef38e464e7bfe0d9d68a4e32877[m
+Author: barnacl437 <barnacl437@proton.me>
+Date:   Thu Jun 12 15:04:53 2025 +0700
+
+    svg thingy idk
+
+[33mcommit 2201ffb6c8df0c1def016bf34f9c85326c6fc5c2[m
+Author: barnacl437 <barnacl437@proton.me>
+Date:   Thu Jun 12 15:03:08 2025 +0700
+
+    pm5644 black (clock?) text
+
+[33mcommit 4d43348b15f3ae7081d34e3104861a4d1c64f5f7[m
+Author: barnacl437 <barnacl437@proton.me>
+Date:   Thu Jun 12 13:39:41 2025 +0700
+
+    lol quote thing
+
+[33mcommit 2e5fc3fdc60c9c1f234c8f67e162e0d354e64dd9[m
+Author: barnacl437 <barnacl437@proton.me>
+Date:   Thu Jun 12 13:39:02 2025 +0700
+
+    Update README.md
+
+[33mcommit cd39a52e00eb450818b9081bb57046301928358e[m
+Author: Dani Rodríguez <dani@danirod.es>
+Date:   Mon Dec 14 23:19:54 2020 +0100
+
+    add pm5644
+
+[33mcommit 4ff89a324e0fbab60139ba8a435381a3bcf7c6c4[m
+Author: Dani Rodríguez <danirod@outlook.com>
+Date:   Mon Feb 6 23:51:20 2017 +0100
+
+    README
+
+[33mcommit f237995c3e8f13ce409114324cc5d980bd6874e4[m
+Author: Dani Rodríguez <danirod@outlook.com>
+Date:   Mon Feb 6 23:43:38 2017 +0100
+
+    Add license
+
+[33mcommit 55a5fb20a4c38a26c3f10773950e7fa3ff634cb8[m
+Author: Dani Rodríguez <danirod@outlook.com>
+Date:   Mon Feb 6 23:36:14 2017 +0100
+
+    Release v2.0
+
+[33mcommit fdd916cb5966ca943fe7bc4e4ba462f3ddaaf714[m
+Author: Dani Rodríguez <danirod@outlook.com>
+Date:   Mon Jun 13 23:01:20 2016 +0200
+
+    Colorbars
+
+[33mcommit e10767f70582a8f4603318f1d4abb04d8196b0fe[m
+Author: Dani Rodríguez <danirod@outlook.com>
+Date:   Sun Jun 12 12:41:00 2016 +0200
+
+    Init commit
